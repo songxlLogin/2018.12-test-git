@@ -5,6 +5,6 @@ public class TestVersionReback {
         System.out.println("test first");
         System.out.println("test second");
 
-        System.out.println("test error");
+        System.out.println("test error 2");
     }
 }
